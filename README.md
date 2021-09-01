@@ -1,4 +1,3 @@
-# hello-world
-This is my first repository
+# fRONT-END-DEMONSTRATIONS
 
-Şu an Tayvandan ilk github commitimi gerçekleştiriyorum.
+This repository will contain any front-end web development demonstrations and easy-to-use source codes and components.
